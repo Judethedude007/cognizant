@@ -1,3 +1,8 @@
 ﻿*.log
 log/
 **/log/
+
+# Backup files from merge tools
+*.orig
+*.bak
+*~
