@@ -13,6 +13,7 @@ This repository contains my hands-on exercises for Cognizant Digital Nurture 5.0
 
 ### Design Patterns and Principles
 - Week_1/Design-Patterns-and-Principles/01-Singleton-Pattern
+- Week_1/Design-Patterns-and-Principles/02-Factory-Method-Pattern
 
 ## Status
 - Git HOL 1 completed
@@ -21,3 +22,4 @@ This repository contains my hands-on exercises for Cognizant Digital Nurture 5.0
 - Git HOL 4 completed
 - Git HOL 5 completed
 - Singleton Pattern exercise completed
+- Factory Method Pattern exercise completed
