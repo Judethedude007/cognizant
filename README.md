@@ -1,4 +1,4 @@
-﻿# Cognizant Digital Nurture 5.0 Hands-on
+# Cognizant Digital Nurture 5.0 Hands-on
 
 This repository contains my hands-on exercises for Cognizant Digital Nurture 5.0.
 
@@ -11,9 +11,13 @@ This repository contains my hands-on exercises for Cognizant Digital Nurture 5.0
 - Week_1/Git/04-Git-HOL-Conflict-Resolution
 - Week_1/Git/05-Git-HOL-Cleanup-Push
 
+### Design Patterns and Principles
+- Week_1/Design-Patterns-and-Principles/01-Singleton-Pattern
+
 ## Status
 - Git HOL 1 completed
 - Git HOL 2 completed
 - Git HOL 3 completed
 - Git HOL 4 completed
 - Git HOL 5 completed
+- Singleton Pattern exercise completed
