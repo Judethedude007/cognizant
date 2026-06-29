@@ -6,3 +6,6 @@ log/
 *.orig
 *.bak
 *~
+
+# Java compiled files
+*.class
