@@ -17,6 +17,7 @@ This repository contains my hands-on exercises for Cognizant Digital Nurture 5.0
 
 ### Data Structures and Algorithms
 - Week_1/Data-Structures-and-Algorithms/02-Ecommerce-Platform-Search-Function
+- Week_1/Data-Structures-and-Algorithms/07-Financial-Forecasting
 
 ## Status
 - Git HOL 1 completed
@@ -27,3 +28,4 @@ This repository contains my hands-on exercises for Cognizant Digital Nurture 5.0
 - Singleton Pattern exercise completed
 - Factory Method Pattern exercise completed
 - E-commerce Platform Search Function exercise completed
+- Financial Forecasting exercise completed
