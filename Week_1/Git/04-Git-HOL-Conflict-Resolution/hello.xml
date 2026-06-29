@@ -1,4 +1,4 @@
 ﻿<message>
-    <source>Main branch</source>
-    <text>Hello from main branch</text>
+    <source>Resolved merge</source>
+    <text>Hello XML file after resolving conflict between main and GitWork branch</text>
 </message>
