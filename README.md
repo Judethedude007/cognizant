@@ -8,8 +8,12 @@ This repository contains my hands-on exercises for Cognizant Digital Nurture 5.0
 - Week_1/Git/01-Git-HOL-Basic-Setup
 - Week_1/Git/02-Git-HOL-GitIgnore
 - Week_1/Git/03-Git-HOL-Branching-Merging
+- Week_1/Git/04-Git-HOL-Conflict-Resolution
+- Week_1/Git/05-Git-HOL-Cleanup-Push
 
 ## Status
 - Git HOL 1 completed
 - Git HOL 2 completed
 - Git HOL 3 completed
+- Git HOL 4 completed
+- Git HOL 5 completed
