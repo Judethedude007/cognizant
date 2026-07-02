@@ -9,3 +9,5 @@ log/
 
 # Java compiled files
 *.class
+
+target/
