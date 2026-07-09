@@ -11,3 +11,5 @@ log/
 *.class
 
 target/
+
+app.log
