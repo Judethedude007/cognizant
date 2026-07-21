@@ -1,0 +1,29 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 40px;
+}
+
+h1 {
+  color: #0b5ed7;
+  margin-bottom: 25px;
+}
+
+.post-card {
+  width: 70%;
+  margin: 20px auto;
+  padding: 20px;
+  text-align: left;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+}
+
+.post-card h2 {
+  color: #198754;
+  text-transform: capitalize;
+}
+
+.post-card p {
+  font-size: 17px;
+  line-height: 1.5;
+}
